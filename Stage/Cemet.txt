@@ -1,4 +1,4 @@
-﻿
+
 #0090
 <MNA<CMU0012<FAI0000<END
 #0091
@@ -21,21 +21,19 @@
 #0200
 <PRI
 <FLJ1371:0201
-<MSG
-무슨 일이야?<NOD<END
+<MSG무슨 일이야?<NOD<END
 #0201
-<PRI<MSG
-집사람이 날 찾는다고?!?<NOD<CLR
-꽤 오래 집을 비웠으니
+<PRI<MSG집사람이 날 찾는다고?<NOD<CLR
+그래.<NOD꽤 오래 집을 비웠으니.<NOD<CLR
 그럼 돌아가도록 하지.<NOD<GIT1032<DNP0200<IT+0032<CLR
 당연히 데려다 주는거지?<NOD<END
 
 #0300
 <CNP0300:0000:0000
-<PRI<MSG
-아더의 묘다.<NOD
-무언가 적혀 있다, <NOD<CLR<MSG<TUR
-미미가의 진정한 영웅 아더 이곳에 잠들다.<NOD<FLJ0390:0000<CLR<MSG<FL+0390
-<CMU0010<GIT1001<IT+0001아더의 열쇠를 발견했다.<WAI0160<NOD<CLO
+<PRI<MSG아서의 묘다.<NOD
+뭔가 적혀 있다.<NOD<CLR<MSG<TUR미미가의 진정한 영웅
+아서
+여기 잠들다<NOD<FLJ0390:0000<CLR<MSG<FL+0390
+<CMU0010<GIT1001<IT+0001=아서의 열쇠=를 발견했다.<WAI0160<NOD<CLO
 <RMU<END
 

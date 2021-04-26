@@ -1,4 +1,4 @@
-﻿
+
 #0090
 <MNA<CMU0008<FAI0000<END
 #0091
@@ -18,15 +18,11 @@
 
 
 #0200
-<KEY<FLJ1290:0201<FL+1290<MSG
-이봐.<NOD<CLR
-지상의 병사잖아?<NOD
+<KEY<FLJ1290:0201<FL+1290<MSG여어.<NOD<CLR지상의 병사잖아?<NOD
 희한한 일이군...<NOD
-동료들은 어쩐 거지?<NOD<CLR...<NOD<CLR
-뭐야, 기억이 없는 건가.<NOD
+동료들은 어쩐 거지?<NOD<CLR...<NOD<CLR뭐야, 기억이 없는 건가.<NOD
 크크크...<NOD<END
 #0201
-<KEY<MSG
-뭐 배터리 닳을 때까지
+<KEY<MSG뭐 배터리 닳을 때까지
 돌아다녀 보라고.<NOD<END
 
